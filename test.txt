@@ -1,1 +1,106 @@
-test
+== Alabama ==
+{{Main|2014 United States House of Representatives elections in Alabama}}
+{{See also|List of United States Representatives from Alabama}}
+
+{| class="wikitable sortable"
+
+|- valign=bottom
+! colspan=2 | District
+! colspan=3 | Incumbent
+! colspan=2 | This race
+
+|- valign=bottom
+! Location
+! [[Cook PVI|PVI]]
+! Representative
+! Party
+! First<br/>elected
+! Status
+! Candidates
+
+|-
+! {{ushr|AL|1|X}}
+| {{Party shading/Republican}} | {{sort|115|R+15}}
+| [[Bradley Byrne]]
+| {{Party shading/Republican}} | Republican
+| [[2013 Alabama's 1st congressional district special election|2013 {{Small|(Special)}}]]
+| Incumbent re-elected.
+| nowrap | {{Plainlist | 
+* {{Aye}} '''[[Bradley Byrne]]''' (Republican) 68.2% 
+* [[Burton LeFlore]] (Democratic) 31.7%
+}}
+
+|-
+! {{ushr|AL|2|X}}
+| {{Party shading/Republican}} | {{sort|117|R+17}}
+| [[Martha Roby]]
+| {{Party shading/Republican}} | Republican
+| [[2010 United States House of Representatives elections in Alabama|2010]]
+| Incumbent re-elected.
+| nowrap | {{Plainlist | 
+* {{Aye}} '''[[Martha Roby]]''' (Republican) 67.3%
+* [[Erick Wright]] (Democratic) 32.6%
+}}
+
+|-
+! {{ushr|AL|3|X}}
+| {{Party shading/Republican}} | {{sort|116|R+16}}
+| [[Mike D. Rogers|Mike Rogers]]
+| {{Party shading/Republican}} | Republican
+| [[2002 United States House of Representatives elections in Alabama|2002]]
+| Incumbent re-elected.
+| nowrap | {{Plainlist | 
+* {{Aye}} '''[[Mike D. Rogers|Mike Rogers]]''' (Republican) 66.1%
+* [[Jesse Smith (Alabama politician)|Jesse Smith]] (Democratic) 33.7%
+}}
+
+|-
+! {{ushr|AL|4|X}}
+| {{Party shading/Republican}} | {{sort|128|R+28}}
+| [[Robert Aderholt]]
+| {{Party shading/Republican}} | Republican
+| [[1996 United States House of Representatives elections in Alabama|1996]]
+| Incumbent re-elected.
+| nowrap | {{Plainlist | 
+* {{Aye}} '''[[Robert Aderholt]]''' (Republican)
+* Unopposed
+}}
+
+|-
+! {{ushr|AL|5|X}}
+| {{Party shading/Republican}} | {{sort|117|R+17}}
+| [[Mo Brooks]]
+| {{Party shading/Republican}} | Republican
+| [[2010 United States House of Representatives elections in Alabama|2010]]
+| Incumbent re-elected.
+| nowrap | {{Plainlist | 
+* {{Aye}} '''[[Mo Brooks]]''' (Republican) 74.4%
+* Mark Bray (Independent) 25.2%
+}}
+
+|-
+! {{ushr|AL|6|X}}
+| {{Party shading/Republican}} | {{sort|128|R+28}}
+| [[Spencer Bachus]]
+| {{Party shading/Republican}} | Republican
+| [[1992 United States House of Representatives elections in Alabama|1992]]
+| {{Party shading/Hold}} | Incumbent retired.<br/>New member elected.<br/>Republican hold.
+| nowrap | {{Plainlist | 
+* {{Aye}} '''[[Gary Palmer (politician)|Gary Palmer]]''' (Republican) 76.2%
+* Mark Lester (Democratic) 23.7% 
+* Aimee Love (Libertarian) 0.1%
+}}
+
+|-
+! {{ushr|AL|7|X}}
+| {{Party shading/Democratic}} | {{sort|080|D+20}}
+| [[Terri Sewell]]
+| {{Party shading/Democratic}} | Democratic
+| [[2010 United States House of Representatives elections in Alabama|2010]]
+| Incumbent re-elected.
+| nowrap | {{Plainlist | 
+* {{Aye}} '''[[Terri Sewell]]''' (Democratic)
+* Unopposed
+}}
+
+|}
